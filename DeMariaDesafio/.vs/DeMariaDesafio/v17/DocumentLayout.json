@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_DeMaria\\DeMariaDesafio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AEA778-2F44-4291-B0C8-E6AA26F387E4}|ControleDeVendas\\ControleDeVendas.csproj|c:\\edmur\\desenvolvimento\\teste_para_emprego\\teste_demaria\\demariadesafio\\controledevendas\\views\\frmclienteslista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3AEA778-2F44-4291-B0C8-E6AA26F387E4}|ControleDeVendas\\ControleDeVendas.csproj|solutionrelative:controledevendas\\views\\frmclienteslista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AEA778-2F44-4291-B0C8-E6AA26F387E4}|ControleDeVendas\\ControleDeVendas.csproj|c:\\edmur\\desenvolvimento\\teste_para_emprego\\teste_demaria\\demariadesafio\\controledevendas\\presenters\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AEA778-2F44-4291-B0C8-E6AA26F387E4}|ControleDeVendas\\ControleDeVendas.csproj|solutionrelative:controledevendas\\presenters\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AEA778-2F44-4291-B0C8-E6AA26F387E4}|ControleDeVendas\\ControleDeVendas.csproj|c:\\edmur\\desenvolvimento\\teste_para_emprego\\teste_demaria\\demariadesafio\\controledevendas\\presenters\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3AEA778-2F44-4291-B0C8-E6AA26F387E4}|ControleDeVendas\\ControleDeVendas.csproj|solutionrelative:controledevendas\\presenters\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AEA778-2F44-4291-B0C8-E6AA26F387E4}|ControleDeVendas\\ControleDeVendas.csproj|c:\\edmur\\desenvolvimento\\teste_para_emprego\\teste_demaria\\demariadesafio\\controledevendas\\businesslogiclayer\\vendabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AEA778-2F44-4291-B0C8-E6AA26F387E4}|ControleDeVendas\\ControleDeVendas.csproj|solutionrelative:controledevendas\\businesslogiclayer\\vendabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AEA778-2F44-4291-B0C8-E6AA26F387E4}|ControleDeVendas\\ControleDeVendas.csproj|c:\\edmur\\desenvolvimento\\teste_para_emprego\\teste_demaria\\demariadesafio\\controledevendas\\dataaccesslayer\\vendadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AEA778-2F44-4291-B0C8-E6AA26F387E4}|ControleDeVendas\\ControleDeVendas.csproj|solutionrelative:controledevendas\\dataaccesslayer\\vendadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AEA778-2F44-4291-B0C8-E6AA26F387E4}|ControleDeVendas\\ControleDeVendas.csproj|c:\\edmur\\desenvolvimento\\teste_para_emprego\\teste_demaria\\demariadesafio\\controledevendas\\views\\frmvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AEA778-2F44-4291-B0C8-E6AA26F387E4}|ControleDeVendas\\ControleDeVendas.csproj|solutionrelative:controledevendas\\views\\frmvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AEA778-2F44-4291-B0C8-E6AA26F387E4}|ControleDeVendas\\ControleDeVendas.csproj|c:\\edmur\\desenvolvimento\\teste_para_emprego\\teste_demaria\\demariadesafio\\controledevendas\\views\\frmvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3AEA778-2F44-4291-B0C8-E6AA26F387E4}|ControleDeVendas\\ControleDeVendas.csproj|solutionrelative:controledevendas\\views\\frmvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmClientesLista.cs [Design]",
+              "DocumentMoniker": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_DeMaria\\DeMariaDesafio\\ControleDeVendas\\Views\\frmClientesLista.cs",
+              "RelativeDocumentMoniker": "ControleDeVendas\\Views\\frmClientesLista.cs",
+              "ToolTip": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_DeMaria\\DeMariaDesafio\\ControleDeVendas\\Views\\frmClientesLista.cs [Design]",
+              "RelativeToolTip": "ControleDeVendas\\Views\\frmClientesLista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:58:08.551Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VendaDAL.cs",
+              "DocumentMoniker": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_DeMaria\\DeMariaDesafio\\ControleDeVendas\\DataAccessLayer\\VendaDAL.cs",
+              "RelativeDocumentMoniker": "ControleDeVendas\\DataAccessLayer\\VendaDAL.cs",
+              "ToolTip": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_DeMaria\\DeMariaDesafio\\ControleDeVendas\\DataAccessLayer\\VendaDAL.cs",
+              "RelativeToolTip": "ControleDeVendas\\DataAccessLayer\\VendaDAL.cs",
+              "ViewState": "AQIAAE4CAAAAAAAAAAAYwGQCAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:59:37.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VendaBLL.cs",
+              "DocumentMoniker": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_DeMaria\\DeMariaDesafio\\ControleDeVendas\\BusinessLogicLayer\\VendaBLL.cs",
+              "RelativeDocumentMoniker": "ControleDeVendas\\BusinessLogicLayer\\VendaBLL.cs",
+              "ToolTip": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_DeMaria\\DeMariaDesafio\\ControleDeVendas\\BusinessLogicLayer\\VendaBLL.cs",
+              "RelativeToolTip": "ControleDeVendas\\BusinessLogicLayer\\VendaBLL.cs",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAAAO4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:45:03.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmVendas.cs",
+              "DocumentMoniker": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_DeMaria\\DeMariaDesafio\\ControleDeVendas\\Views\\frmVendas.cs",
+              "RelativeDocumentMoniker": "ControleDeVendas\\Views\\frmVendas.cs",
+              "ToolTip": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_DeMaria\\DeMariaDesafio\\ControleDeVendas\\Views\\frmVendas.cs",
+              "RelativeToolTip": "ControleDeVendas\\Views\\frmVendas.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:59:37.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_DeMaria\\DeMariaDesafio\\ControleDeVendas\\Presenters\\frmMain.cs",
+              "RelativeDocumentMoniker": "ControleDeVendas\\Presenters\\frmMain.cs",
+              "ToolTip": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_DeMaria\\DeMariaDesafio\\ControleDeVendas\\Presenters\\frmMain.cs",
+              "RelativeToolTip": "ControleDeVendas\\Presenters\\frmMain.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAAKoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:55:00.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmVendas.cs [Design]",
+              "DocumentMoniker": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_DeMaria\\DeMariaDesafio\\ControleDeVendas\\Views\\frmVendas.cs",
+              "RelativeDocumentMoniker": "ControleDeVendas\\Views\\frmVendas.cs",
+              "ToolTip": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_DeMaria\\DeMariaDesafio\\ControleDeVendas\\Views\\frmVendas.cs [Design]",
+              "RelativeToolTip": "ControleDeVendas\\Views\\frmVendas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:09:10.155Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_DeMaria\\DeMariaDesafio\\ControleDeVendas\\Presenters\\frmMain.cs",
+              "RelativeDocumentMoniker": "ControleDeVendas\\Presenters\\frmMain.cs",
+              "ToolTip": "C:\\Edmur\\Desenvolvimento\\Teste_Para_Emprego\\Teste_DeMaria\\DeMariaDesafio\\ControleDeVendas\\Presenters\\frmMain.cs [Design]",
+              "RelativeToolTip": "ControleDeVendas\\Presenters\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:05:34.978Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
