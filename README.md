@@ -2,6 +2,12 @@
 
 Este é um projeto de aplicação desktop desenvolvido em C# utilizando Windows Forms e PostgreSQL. O sistema tem como objetivo gerenciar clientes, produtos e vendas.
 
+<br>
+<h1 align="center">
+    <img src="./DeMAriaDesafio/foto01Tela.png">
+</h1>
+<br>
+
 ## Estrutura do Projeto
 
 - **DeMariaDesafio** (sua solução)
