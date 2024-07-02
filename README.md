@@ -4,7 +4,7 @@ Este é um projeto de aplicação desktop desenvolvido em C# utilizando Windows 
 
 <br>
 <h1 align="center">
-    <img src="./DeMAriaDesafio/foto01Tela.png">
+    <img src="./DeMariaDesafio/foto01Tela.png">
 </h1>
 <br>
 
