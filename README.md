@@ -28,6 +28,17 @@ Este é um projeto de aplicação desktop desenvolvido em C# utilizando Windows 
 - Registro de vendas, incluindo seleção de cliente, produtos e quantidade de itens vendidos.
 - Geração de relatórios de vendas, clientes e estoque utilizando o ReportViewer.
 
+<br>
+<h1 align="center">
+    <img src="./DeMariaDesafio/foto02Tela.png">
+</h1>
+<br>
+<br>
+<h1 align="center">
+    <img src="./DeMariaDesafio/foto03Tela.png">
+</h1>
+<br>
+
 ## Tecnologias Utilizadas
 
 - C#
